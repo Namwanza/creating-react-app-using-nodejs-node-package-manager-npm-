@@ -36,7 +36,7 @@ class App extends Component {
       currentName={this.state.username}/>
       <UserOutput  username={this.state.username}/>
       <UserOutput  username={this.state.username}/>
-      <UserOutput  username={"Ronnie"}/>
+      <UserOutput  username={"Ronald"}/>
       </div>
     );
   }
